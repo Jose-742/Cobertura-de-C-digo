@@ -30,11 +30,6 @@ class MovimentacaoTest {
         final long obtido = instance.getId();
         assertEquals(esperado, obtido);
     }
-​
-17
-image:https://img.shields.io/github/workflow/status/Jose-742/Cobertura-de-C-digo/maven/ha​
-17
-image:https://img.shields.io/github/workflow/status/Jose-742/Cobertura-de-C-digo/maven/ha
     /**
      * R00 - Verifica se ocorre erro ao tentar inserir uma descrição nula.
      *
