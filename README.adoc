@@ -12,6 +12,6 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-=Sistema Bancário  image::https://img.shields.io/github/workflow/Jose-742/Cobertura-de-C-digo/maven
+= Sistema Bancário image:https://img.shields.io/github/workflow/status/Jose-742/Cobertura-de-C-digo/maven[GitHub Workflow Status]
 
 image::relatorio.png[]
